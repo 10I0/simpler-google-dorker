@@ -9,4 +9,4 @@
  ```bash
  python3 main.py
  ``` 
- <img src="https://i.imgur.com/hPoV9H4"></img>
+ <img src="https://i.imgur.com/hPoV9H4_d.webp?maxwidth=640&shape=thumb&fidelity=medium"></img>
